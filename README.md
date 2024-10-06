@@ -1,5 +1,5 @@
 # Nombre: Mauricio Molina
 
-# Link Github Repo: 
+# Link Github Repo: https://github.com/TICAMOLINA/desafio-01
 
-# Link: Netlify: 
+# Link: Netlify: https://desafio-01-mauricio-molina.netlify.app/
